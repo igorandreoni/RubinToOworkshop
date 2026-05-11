@@ -12,7 +12,7 @@ conda create --name <env> --file requirements.txt
 ```
 pip install --user git+https://github.com/lsst-ts/ts_fbs_utils
 ```
-5. Create a [usdf token](https://usdf-rsp.slac.stanford.edu/settings/tokens), and store it somewhere on your machine (remember the path for later).
+5. Create a [usdf token](https://data.lsst.cloud/settings/tokens), and store it somewhere on your machine (remember the path for later).
 6. Clone `ts_config_scheduler`:
 ```
 git clone git@github.com:lsst-ts/ts_config_scheduler.git
